@@ -1,0 +1,4 @@
+.env
+.apiEnv/
+__pycache__
+*.odt
