@@ -2,3 +2,4 @@
 .apiEnv/
 __pycache__
 *.odt
+*.odt#
